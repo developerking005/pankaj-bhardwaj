@@ -17,7 +17,7 @@ body {
   text-align: center;
   background: url('./stockmarket.webp') no-repeat center center/cover;
   min-height: 100vh;
-  color: black;            
+  color: white;            
 }
 
 .container {
